@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "44975987740",
+    "project_id": "react-chat-ai-4dcb6",
+    "storage_bucket": "react-chat-ai-4dcb6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44975987740:android:99080a2ee4ad163b8993d9",
+        "android_client_info": {
+          "package_name": "com.reactchatai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2dVTmz8fiNtRVF5PhO8gvh8n0r8Sd_NE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
